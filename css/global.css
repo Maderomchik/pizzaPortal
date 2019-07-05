@@ -1,0 +1,11 @@
+body {
+    background-image: url('../img/pizza-2244559.svg')
+}
+
+.order {
+    width: 50%;
+    margin: 50px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    box-shadow: 5px 10px 10px black;
+}
